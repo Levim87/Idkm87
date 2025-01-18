@@ -123,7 +123,7 @@ local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 
 -- Interface Management
-local Rayfield = game:GetObjects("rbxassetid://134415566685128")[1]
+local Rayfield = game:GetObjects("rbxassetid://94070408305448")[1]
 
 ---------------------------------------------------------------------------------------------------------------------------------------- IMPORTANT
 
@@ -493,7 +493,7 @@ end
 
 local function Maximise()
 	Debounce = true
-	Topbar.ChangeSize.Image = "rbxassetid://"..74020677489922
+	Topbar.ChangeSize.Image = "rbxassetid://..94070408305448
 
 
 	TweenService:Create(Topbar.UIStroke, TweenInfo.new(0.5, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
