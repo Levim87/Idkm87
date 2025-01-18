@@ -20,7 +20,7 @@ if game:GetService("CoreGui"):FindFirstChild("MESSAGINGSYSTEM") ~= nil then
 end
 
 local Release = "Custom Build"
-local RayfieldFolder = "EXPENSIVECOREFOLDER"
+local RayfieldFolder = "tekkitcoreFOLDER"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".txt"
 
