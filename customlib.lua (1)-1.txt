@@ -494,7 +494,7 @@ end
 
 local function Maximise()
 	Debounce = true
-	Topbar.ChangeSize.Image = "rbxassetid://"..74020677489922
+	Topbar.ChangeSize.Image = "rbxassetid://94070408305448"
 
 
 	TweenService:Create(Topbar.UIStroke, TweenInfo.new(0.5, Enum.EasingStyle.Exponential), {Transparency = 1}):Play()
@@ -626,7 +626,7 @@ end
 
 local function Minimise()
 	Debounce = true
-	Topbar.ChangeSize.Image = "rbxassetid://"..74020677489922
+	Topbar.ChangeSize.Image = "rbxassetid://94070408305448"
 
 	Topbar.UIStroke.Color = SelectedTheme.ElementStroke
 
