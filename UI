@@ -1,4 +1,10 @@
-
+-- [[
+--    ===========================================================================
+--    NOVA MODERN UI FRAMEWORK (Executor-Optimized)
+--    Build: v5.5.0 (Slider Scale Optimization & Clean Release)
+--    Target: Exploit Environments (gethui), PC/Mobile Adaptive Sizing, Luau State
+--    ===========================================================================
+-- ]]
 
 -- // Localize Core Services & Libraries (Performance Optimization)
 local RunService = game:GetService("RunService")
@@ -1261,4 +1267,8 @@ function Library:CreateTab(name)
     
     return Elements
 end
-return Library
+
+-- ====================================================================
+-- // BUILD THE USER INTERFACE DEMONSTRATION EXAMPLES
+-- ====================================================================
+
