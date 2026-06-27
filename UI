@@ -1267,7 +1267,7 @@ function Library:CreateTab(name)
     
     return Elements
 end
-
+return Library
 -- ====================================================================
 -- // BUILD THE USER INTERFACE DEMONSTRATION EXAMPLES
 -- ====================================================================
