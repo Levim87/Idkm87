@@ -1240,6 +1240,6 @@ function Levi:CreateTab(name)
     return Elements
 end
 
-Levi:Notify("UI IS LOADED", "LEVI IS RUNNING", 4)
+Levi:Notify("LEVI UI IS LOADED", "LEVI UI IS RUNNING", 4)
 
 return Levi
